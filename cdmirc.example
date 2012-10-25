@@ -1,0 +1,11 @@
+[test]
+URL = http://localhost
+USER = administrator
+PASSWORD = password
+
+[test1]
+URL = https://cloud.expample.com
+USER = administrator
+PASSWORD = password
+
+
